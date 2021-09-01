@@ -1,0 +1,10 @@
+insert into Relationship (rel_contact) values ('Vail Ickovici');
+insert into Relationship (rel_contact) values ('Eleanore Lowman');
+insert into Relationship (rel_contact) values ('Adora Thirtle');
+insert into Relationship (rel_contact) values ('Tybi Nicklinson');
+insert into Relationship (rel_contact) values ('De Ellesworth');
+insert into Relationship (rel_contact) values ('Anthony Wasmer');
+insert into Relationship (rel_contact) values ('Sherrie Wathey');
+insert into Relationship (rel_contact) values ('Gottfried Gumby');
+insert into Relationship (rel_contact) values ('Hadrian Popham');
+insert into Relationship (rel_contact) values ('Katina Andriessen');

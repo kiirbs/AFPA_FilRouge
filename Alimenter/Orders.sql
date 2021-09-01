@@ -1,0 +1,3 @@
+INSERT INTO Orders(ord_order_date, ord_payment_date, ord_reception_date, ord_status, ord_address, ord_price_ttc, ord_pay_types) VALUES ('2002-08-17', '2002-08-27', '2002-09-02', 'Livrée', '082 Upham Park', 492, true);
+INSERT INTO Orders(ord_order_date, ord_payment_date, ord_reception_date, ord_status, ord_address, ord_price_ttc, ord_pay_types) VALUES ('2002-05-11', '2002-07-26', '2002-07-28', 'Livrée', '4 Spohn Circle', 607, false);
+INSERT INTO Orders(ord_order_date, ord_payment_date, ord_reception_date, ord_status, ord_address, ord_price_ttc, ord_pay_types) VALUES ('2005-10-21', '2005-12-19', '2006-01-20', 'Livrée', '6898 Crescent Oaks Avenue', 554, false);

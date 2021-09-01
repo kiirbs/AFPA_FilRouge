@@ -1,0 +1,10 @@
+insert into Marketing (mar_contact, mar_types) values ('Amalle Cristofvao', false);
+insert into Marketing (mar_contact, mar_types) values ('Maison Jephcote', false);
+insert into Marketing (mar_contact, mar_types) values ('Diana Temple', true);
+insert into Marketing (mar_contact, mar_types) values ('Ciel Petran', true);
+insert into Marketing (mar_contact, mar_types) values ('Lynde Van Geffen', true);
+insert into Marketing (mar_contact, mar_types) values ('Briggs Joist', false);
+insert into Marketing (mar_contact, mar_types) values ('Jone Lumb', true);
+insert into Marketing (mar_contact, mar_types) values ('Carolin Petheridge', true);
+insert into Marketing (mar_contact, mar_types) values ('Edwin Doogood', false);
+insert into Marketing (mar_contact, mar_types) values ('Madge Twells', true);

@@ -1,0 +1,10 @@
+insert into Catalogue (cat_achat_htva, cat_achat_tvac) values (263, 294.56);
+insert into Catalogue (cat_achat_htva, cat_achat_tvac) values (70, 78.4);
+insert into Catalogue (cat_achat_htva, cat_achat_tvac) values (1687, 1889.44);
+insert into Catalogue (cat_achat_htva, cat_achat_tvac) values (1089, 1219.68);
+insert into Catalogue (cat_achat_htva, cat_achat_tvac) values (1538, 1722.56);
+insert into Catalogue (cat_achat_htva, cat_achat_tvac) values (1593, 1784.16);
+insert into Catalogue (cat_achat_htva, cat_achat_tvac) values (663, 742.56);
+insert into Catalogue (cat_achat_htva, cat_achat_tvac) values (1409, 1578.08);
+insert into Catalogue (cat_achat_htva, cat_achat_tvac) values (209, 234.08);
+insert into Catalogue (cat_achat_htva, cat_achat_tvac) values (1880, 2105.6);
